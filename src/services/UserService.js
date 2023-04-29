@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const GET_ALL_USERS_API_URL="http://localhost:8080/users";
-const BASE_USER_API_URL="http://localhost:8080/user";
+const GET_ALL_USERS_API_URL="http://52.66.195.84:8080/users";
+const BASE_USER_API_URL="http://52.66.195.84:8080/user";
 
 class UserService{
 
